@@ -105,12 +105,12 @@ Index + vertex buffer cca 600MB holá data
 ### Vizualizace experimentů
   
 Domácí cluster produkuje obrovská kvanta dat  
-
+  
 Fyzici rozumí povaze dat, ne však vizualizacím  
-
+  
 Paraview
 
----?image=assets/grief.jpg
+---?image=assets/grief.jpg?size=contain auto 90%
 
 ---
 
