@@ -79,6 +79,8 @@ Zdrojová data
 Note:
 Každý konstruktér (autor modelů) má jiný bordel v modelu
 
+---
+
 ### Problémy
 
 Tradeoffs  
