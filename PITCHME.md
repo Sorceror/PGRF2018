@@ -45,6 +45,10 @@ E5 - studium malých struktur - velikost atomů
 
 ---
 
+## Virtual Beam Lines
+
+---
+
 ### Virtual Beam Lines
 
 Kompletní životní cyklus laserového experimentu a budovy ELI  
@@ -97,6 +101,22 @@ Index + vertex buffer cca 600MB holá data
 3500 draw callu na telefonu je v pohodě, ale setování uniformů je brutálně drahé
 
 ---
+
+## Vizualizace experimentálních dat
+
+Domácí cluster produkuje obrovská kvanta dat
+
+Fyzici rozumí povaze dat, ne však vizualizacím
+
+Paraview
+
+---?image=assets/grief.jpg
+
+---
+
+Note:
+Stovky GB nejsou nic neobvyklého
+Bez kontextu jsou vizualizace od vědců velmi špatně pochopitelné
 
 TODO: maly tym
 TODO: nabidka prace
