@@ -37,7 +37,7 @@ E3 - teplá husta hmota, plazmová fyzika
 E4 - protonová terapie rakoviny
 E5 - studium malých struktur - velikost atomů 
 
----?image=assets/eli_budova.jpg?size=cover
+---?image=assets/eli_budova.jpg?size=contain
 
 ---
 
