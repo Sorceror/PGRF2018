@@ -47,11 +47,11 @@ E5 - studium malých struktur - velikost atomů
 
 ### Virtual Beam Lines
 
-Kompletní životní cyklus laserového experimentu a budovy ELI
+Kompletní životní cyklus laserového experimentu a budovy ELI  
 
-Design experimentů, výuková pomůcka, PR
+Design experimentů, výuková pomůcka, PR  
 
-Unity vs. WebGL
+Unity vs. WebGL  
 
 TODO: demo na telefonu?
 
@@ -67,21 +67,21 @@ Transformace dat (Jupyter notebook)
 
 ### Problémy
 
-@size[0.6em](
-Enormní velikost modelu  
-60 mil tri, 31 mil vert, 3500+ unikátních objektů
 
-Tradeoffs  
-Paměť, CPU, síť
+@size[0.6em](Enormní velikost modelu)  
+@size[0.5em](60 mil tri, 31 mil vert, 3500+ unikátních objektů)
 
-LOD  
-Automatické generování má různorodé výsledky, roztříštěné zdroje dat
+@size[0.6em](Tradeoffs)  
+@size[0.5em](Paměť, CPU, síť)
 
-Optimalizace  
-Never ending story
+@size[0.6em](LOD)  
+@size[0.5em](Automatické generování má různorodé výsledky, roztříštěné zdroje dat
 
-UX  
-Složitost navigace, velký rozptyl typů uživatelů)
+@size[0.6em](Optimalizace)  
+@size[0.5em](Never ending story
+
+@size[0.6em](UX)  
+@size[0.5em](Složitost navigace, velký rozptyl typů uživatelů)
 
 Note:
 Index + vertex buffer cca 600MB holá data
