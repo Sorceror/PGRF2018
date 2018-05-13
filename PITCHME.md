@@ -112,8 +112,6 @@ Paraview
 
 ---?image=assets/paraview-jirka.png&size=auto 90%
 
----
-
 ---?image=assets/grief.jpg&size=auto 90%
 
 Note:
