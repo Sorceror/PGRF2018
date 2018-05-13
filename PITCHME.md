@@ -14,6 +14,8 @@ Zkoumání interakce světla s hmotou při nejvyšších intenzitách a nejkrat�
 Note:
 Největší vedecký projekt ČR v historii - 7.5 mld Kč (85% z EU)
 
+---
+
 ### ELI Beamlines
 
 Molekulární a biomedicínské aplikace
@@ -37,6 +39,8 @@ E5 - studium malých struktur - velikost atomů
 
 ### Video E3 render FIXME:
 
+---
+
 # Virtual Beam Lines
 
 Kompletní životní cyklus laserového experimentu a budovy ELI
@@ -55,6 +59,8 @@ Podklady pro reálny experiment (externí sw)
 Vizualizace výsledků (vbl)
 Transformace dat (Jupyter notebook)
 
+---
+
 ### Problémy
 
 Enormní velikost modelu  
@@ -64,7 +70,7 @@ Tradeoffs
 Paměť, CPU, síť
 
 LOD  
-Automatické generování má různorodé výsledky
+Automatické generování má různorodé výsledky, roztříštěné zdroje dat
 
 Optimalizace  
 Never ending story
@@ -75,6 +81,8 @@ Složitost navigace, velký rozptyl typů uživatelů
 Note:
 Index + vertex buffer cca 600MB holá data
 3500 draw callu na telefonu je v pohodě, ale setování uniformů je brutálně drahé
+
+---
 
 TODO: maly tym
 TODO: nabidka prace
