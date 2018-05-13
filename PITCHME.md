@@ -103,10 +103,10 @@ Index + vertex buffer cca 600MB holá data
 ---
 
 ## Vizualizace experimentálních dat
+  
+Domácí cluster produkuje obrovská kvanta dat  
 
-Domácí cluster produkuje obrovská kvanta dat
-
-Fyzici rozumí povaze dat, ne však vizualizacím
+Fyzici rozumí povaze dat, ne však vizualizacím  
 
 Paraview
 
