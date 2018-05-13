@@ -77,10 +77,10 @@ Tradeoffs
 LOD  
 @size[0.5em](Automatické generování má různorodé výsledky, roztříštěné zdroje dat
 
-Optimalizace 
+Optimalizace  
 @size[0.5em](Never ending story)
 
-UX
+UX  
 @size[0.5em](Složitost navigace, velký rozptyl typů uživatelů)
 
 Note:
