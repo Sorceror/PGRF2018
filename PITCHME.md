@@ -102,7 +102,7 @@ Index + vertex buffer cca 600MB holá data
 
 ---
 
-### Vizualizace experimentálních dat
+### Vizualizace experimentů
   
 Domácí cluster produkuje obrovská kvanta dat  
 
