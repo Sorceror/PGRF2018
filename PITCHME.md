@@ -110,7 +110,7 @@ Fyzici rozumí povaze dat, ne však vizualizacím
   
 Paraview
 
----?image=assets/grief.jpg?size=auto 90%
+---?image=assets/grief.jpg&size=auto 90%
 
 ---
 
