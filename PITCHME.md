@@ -3,6 +3,8 @@
 
 ---?image=assets/eli_logo.jpg&size=auto 90%
 
+---
+
 ### ELI Beamlines
 
 Součástí evropského projektu ELI (Extreme Light Infrastructure)
@@ -34,6 +36,8 @@ E2 - studium vzorků, které nechceme ničit destruktivnímí metodami
 E3 - teplá husta hmota, plazmová fyzika
 E4 - protonová terapie rakoviny
 E5 - studium malých struktur - velikost atomů 
+
+---
 
 ---?image=assets/eli_budova.jpg?size=auto 100%
 
