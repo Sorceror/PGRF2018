@@ -45,7 +45,7 @@ E5 - studium malých struktur - velikost atomů
 
 ---
 
-# Virtual Beam Lines
+### Virtual Beam Lines
 
 Kompletní životní cyklus laserového experimentu a budovy ELI
 
@@ -67,6 +67,7 @@ Transformace dat (Jupyter notebook)
 
 ### Problémy
 
+@size[0.6em](
 Enormní velikost modelu  
 60 mil tri, 31 mil vert, 3500+ unikátních objektů
 
@@ -80,7 +81,7 @@ Optimalizace
 Never ending story
 
 UX  
-Složitost navigace, velký rozptyl typů uživatelů
+Složitost navigace, velký rozptyl typů uživatelů)
 
 Note:
 Index + vertex buffer cca 600MB holá data
