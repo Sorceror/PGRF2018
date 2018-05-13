@@ -68,19 +68,19 @@ Transformace dat (Jupyter notebook)
 ### Problémy
 
 
-@size[0.6em](Enormní velikost modelu)  
+@size[0.6em](Enormní velikost modelu)
 @size[0.5em](60 mil tri, 31 mil vert, 3500+ unikátních objektů)
 
-@size[0.6em](Tradeoffs)  
+@size[0.6em](Tradeoffs)
 @size[0.5em](Paměť, CPU, síť)
 
-@size[0.6em](LOD)  
+@size[0.6em](LOD)
 @size[0.5em](Automatické generování má různorodé výsledky, roztříštěné zdroje dat
 
-@size[0.6em](Optimalizace)  
+@size[0.6em](Optimalizace)
 @size[0.5em](Never ending story
 
-@size[0.6em](UX)  
+@size[0.6em](UX)
 @size[0.5em](Složitost navigace, velký rozptyl typů uživatelů)
 
 Note:
