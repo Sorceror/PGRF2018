@@ -110,9 +110,20 @@ Fyzici rozumí povaze dat, ne však vizualizacím
   
 Paraview
 
----?image=assets/grief.jpg&size=auto 90%
+---?image=assets/paraview-jirka.png
 
 ---
+
+---?image=assets/grief.jpg&size=auto 90%
+
+Note:
+Paraview běžně umírá / nezvládá, občas se nechce vykreslit nějaký frame, nvidia index zkušenosti
+
+---
+
+### Vizualizace experimentů
+
+
 
 Note:
 Stovky GB nejsou nic neobvyklého
