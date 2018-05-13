@@ -73,7 +73,7 @@ Enormní velikost modelu
 LOD  
 @size[0.6em](Automatické generování má různorodé výsledky)
 
-Zdrojová data
+Zdrojová data  
 @size[0.6em](Každý pes jiná ves)
 
 Note:
