@@ -110,7 +110,7 @@ Fyzici rozumí povaze dat, ne však vizualizacím
   
 Paraview
 
----?image=assets/paraview-jirka.png
+---?image=assets/paraview-jirka.png&size=auto 90%
 
 ---
 
