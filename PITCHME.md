@@ -67,21 +67,28 @@ Transformace dat (Jupyter notebook)
 
 ### Problémy
 
-
 Enormní velikost modelu  
-@size[0.5em](60 mil tri, 31 mil vert, 3500+ unikátních objektů)
-
-Tradeoffs  
-@size[0.5em](Paměť, CPU, síť)
+@size[0.6em](60 mil tri, 31 mil vert, 3500+ unikátních objektů)
 
 LOD  
-@size[0.5em](Automatické generování má různorodé výsledky, roztříštěné zdroje dat
+@size[0.6em](Automatické generování má různorodé výsledky)
+
+Zdrojová data
+@size[0.6em](Každý pes jiná ves)
+
+Note:
+Každý konstruktér (autor modelů) má jiný bordel v modelu
+
+### Problémy
+
+Tradeoffs  
+@size[0.6em](Paměť, CPU, síť)
 
 Optimalizace  
-@size[0.5em](Never ending story)
+@size[0.6em](Never ending story)
 
 UX  
-@size[0.5em](Složitost navigace, velký rozptyl typů uživatelů)
+@size[0.6em](Složitost navigace, velký rozptyl typů uživatelů)
 
 Note:
 Index + vertex buffer cca 600MB holá data
