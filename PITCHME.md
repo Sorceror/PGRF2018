@@ -203,7 +203,7 @@ GPU instancing částic v prakticky čistém WebGL
 
 Toolchain pro konverzi dat  
 @size[0.6em](Založený na node.js)  
-@size[0.6em](\*.h5, *.csv, *.vtk, ...)
+@size[0.6em](\*.h5, \*.csv, \*.vtk, ...)
 
 ---?image=assets/vblelibeamseu.png
 
