@@ -132,7 +132,7 @@ Tvorba prezentačního videa
 Vizualizace ve WebGL na míru  
 @size[0.4em](Alespoň prozatím)
 
-Notes:
+Note:
 Základní analýza dat, zjišťování smysluplných rozsahů, tvorba videí
 
 ---
