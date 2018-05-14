@@ -238,6 +238,10 @@ Malý tým, obří množství práce
 
 Hledáme nadšené grafiky všech kategorií, druhů a tvarů
 
-@fa[at fa-lg] @size[0.6em](janecka.pavel@gmail.com)  
-@fa[at fa-lg] @size[0.6em](pavel.janecka@eli-beams.eu)  
-@fa[github fa-lg] @size[0.6em](Sorceror)
+@div[left-50]
+@fa[at] @size[0.6em](janecka.pavel@gmail.com) 
+@divend
+
+@div[right-50]
+@fa[github] @size[0.6em](Sorceror)
+@divend
