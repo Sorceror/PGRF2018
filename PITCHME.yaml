@@ -1,2 +1,3 @@
 theme-override : assets/css.css
 background-size : contain
+layout : center-left
