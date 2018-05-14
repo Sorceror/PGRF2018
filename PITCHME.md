@@ -110,22 +110,60 @@ Fyzici rozumí povaze dat, ne však vizualizacím
   
 Paraview
 
+Note:
+Stovky GB nejsou nic neobvyklého
+Bez kontextu jsou vizualizace od vědců velmi špatně pochopitelné
+
 ---?image=assets/paraview-jirka.png&size=auto 90%
 
 ---?image=assets/grief.jpg&size=auto 90%
 
 Note:
-Paraview běžně umírá / nezvládá, občas se nechce vykreslit nějaký frame, nvidia index zkušenosti
+Paraview běžně umírá / nezvládá, občas se nechce vykreslit nějaký frame, nvidia index zkušenosti, problém s matematickými fonty, export závislý na rozlišení, video export per frame a občas nejaký chybí
 
 ---
 
 ### Vizualizace experimentů
 
+Předzpracování v Paraview
 
+Tvorba prezentačního videa
 
-Note:
-Stovky GB nejsou nic neobvyklého
-Bez kontextu jsou vizualizace od vědců velmi špatně pochopitelné
+Vizualizace ve WebGL na míru  
+@size[0.4em](Alespoň prozatím)
+
+Notes:
+Základní analýza dat, zjišťování smysluplných rozsahů, tvorba videí
+
+---
+
+### Zdrojová data
+
+Částicová data  
+@size[0.6em](Protony, elektrony, neutrony, gamma a jejich variace)
+
+Objemová data - projekce a řezy  
+@size[0.6em](Energie, náboj, hustota, ...)
+
+---
+
+### Existující frameworky
+
+Paraview nativní vtk.js framework
+
+@div[top-45]
+![](assets/vtkjs-expected.png)
+@divend
+
+@div[bottom-45]
+![](assets/vtkjs-reality.png)
+@divend
+
+---
+
+### Existující frameworky
+
+three.js částicové systémy
 
 TODO: maly tym
 TODO: nabidka prace
