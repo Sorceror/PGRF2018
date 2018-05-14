@@ -1,3 +1,4 @@
 theme-override : assets/css.css
 background-size : contain
 layout : center-left
+footnote : "Pavel Janečka, ELI Beamlines
