@@ -40,9 +40,7 @@ E5 - studium malých struktur - velikost atomů
 
 ---?image=assets/eli_budova.jpg
 
----
-
-### Video E3 render FIXME:
+---?video=https://youtu.be/UhOyA6o7L80
 
 ---
 
