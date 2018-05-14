@@ -165,5 +165,10 @@ Paraview nativní vtk.js framework
 
 three.js částicové systémy
 
+![](assets/threejs-vtk.png)
+
+Note:
+Snesitelný počet FPS, loading celé scény = minuty
+
 TODO: maly tym
 TODO: nabidka prace
