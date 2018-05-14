@@ -197,6 +197,7 @@ Snesitelný počet FPS, loading celé scény = minuty, threejs = moloch, uprava 
 ### Vlastní řešení
 
 Nedostatečný výkon, problémová integrace s VBL
+@size[0.6em](Až 30 mil částic na snímek při animaci o 400 snímcích)
 
 GPU instancing částic v prakticky čistém WebGL  
 @size[0.6em](Framework twgl.js)
@@ -205,9 +206,39 @@ Toolchain pro konverzi dat
 @size[0.6em](Založený na node.js)  
 @size[0.6em](\*.h5, \*.csv, \*.vtk, ...)
 
+Note:
+Zajímavý problém - uniformní samplování neuniformních dat (mřížka)
+
 ---?image=assets/vblelibeamseu.png&size=auto 90%
 
 ---
+
+### Co nás čeká dál
+
+Tradeoffs  
+@size[0.6em](Paměť, CPU, síť - komprese?)
+
+Optimalizace  
+@size[0.6em](Never ending story)
+
+Vizualizace objemových dat
+
+Jednodušší import dat, ovládání animace, WebVR, AR
+
+Note:
+Data pro animace jsou per snímek nebo dohromady vše v jednom balíku
+
+---
+
+### Tým
+
+Malý tým, obří množství práce
+
+Hledáme nadšené grafiky všech kategorií, druhů a tvarů
+
+@fa[at] janecka.pavel@gmail.com
+@fa[at] pavel.janecka@eli-beams.eu
+@fa[github] Sorceror
 
 TODO: maly tym
 TODO: nabidka prace
