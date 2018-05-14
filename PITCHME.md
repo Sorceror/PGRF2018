@@ -142,8 +142,26 @@ Základní analýza dat, zjišťování smysluplných rozsahů, tvorba videí
 Částicová data  
 @size[0.6em](Protony, elektrony, neutrony, gamma a jejich variace)
 
+Skalární data
+@size[0.6em](Z detektorů - intenzita, Ramanův posun - spektroskopie)
+
 Objemová data - projekce a řezy  
 @size[0.6em](Energie, náboj, hustota, ...)
+
+Note:
+2D i 3D data, na skalární data d3.js - na nestatická data mizerně pomalé
+
+---
+
+### Existující frameworky
+
+Unity
+
+TODO: obrázek
+
+Note:
+Default assets jsou extrémně mizerné, i placené nemají požadovaný výkon
+Zobrazení pouze podmnožiny dat
 
 ---
 
@@ -159,6 +177,10 @@ Paraview nativní vtk.js framework
 ![](assets/vtkjs-reality.png)
 @divend
 
+
+Note:
+Export z Paraview pomocí python skriptu
+Nakonec se nam podařilo dopsat loadery a scénu alespoň částečně načíst - extrémní loading time, 6fps
 ---
 
 ### Existující frameworky
@@ -168,7 +190,20 @@ three.js částicové systémy
 ![](assets/threejs-vtk.png)
 
 Note:
-Snesitelný počet FPS, loading celé scény = minuty
+Snesitelný počet FPS, loading celé scény = minuty, threejs = moloch, uprava shaderů je hell
+
+---
+
+### Vlastní řešení
+
+Nedostatečný výkon, problémová integrace s VBL
+
+GPU instancing částic v prakticky čistém WebGL  
+@size[0.6em](Framework twgl)
+
+Toolchain pro konverzi dat  
+@size[0.6em](Založený na node.js)
+@size[0.6em](*.h5, *.csv, *.vtk, ...)
 
 TODO: maly tym
 TODO: nabidka prace
