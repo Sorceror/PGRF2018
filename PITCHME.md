@@ -40,7 +40,7 @@ E5 - studium malých struktur - velikost atomů
 
 ---?image=assets/eli_budova.jpg
 
----?video=https://youtu.be/UhOyA6o7L80
+---?video=https://www.youtube.com/embed/UhOyA6o7L80
 
 ---
 
@@ -134,7 +134,7 @@ Vizualizace ve WebGL na míru
 Note:
 Základní analýza dat, zjišťování smysluplných rozsahů, tvorba videí
 
----?video=https://cdn.rawgit.com/Sorceror/PGRF2018/590f9c3e/assets/energy-charge-4k-v3.mp4
+---?video=https://www.youtube.com/embed/itghwJmBqnw
 
 ---
 
