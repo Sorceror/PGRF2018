@@ -42,7 +42,7 @@ E5 - studium malých struktur - velikost atomů
 
 ---
 
-![](https://www.youtube.com/embed/UhOyA6o7L80)
+![](https://www.youtube.com/embed/itghwJmBqnw)
 
 ---
 
@@ -138,7 +138,7 @@ Základní analýza dat, zjišťování smysluplných rozsahů, tvorba videí
 
 ---
 
-![](https://www.youtube.com/embed/itghwJmBqnw)
+![](https://www.youtube.com/embed/UhOyA6o7L80)
 
 ---
 
