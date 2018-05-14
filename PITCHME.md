@@ -7,7 +7,8 @@
 
 ### ELI Beamlines
 
-Součástí evropského projektu ELI (Extreme Light Infrastructure)
+Součástí evropského projektu ELI  
+@size[0.6em](Extreme Light Infrastructure)
 
 Několik pracovišť na území České republiky, Maďarska a Rumunska
 
@@ -22,7 +23,7 @@ Největší vedecký projekt ČR v historii - 7.5 mld Kč (85% z EU)
 
 Molekulární a biomedicínské aplikace
 
-Zdroje ultrakrátkých pulzů tvrdého rengenového záření
+Zdroje tvrdého rengenového záření
 
 Fyzika plazmata a exotické fyzika
 
@@ -57,8 +58,6 @@ Design experimentů, výuková pomůcka, PR
 
 Unity vs. WebGL  
 
-TODO: demo na telefonu?
-
 Note:
 Design experimentu (vbl)
 Simulace (externí sw)
@@ -66,6 +65,8 @@ Vizualizace simulací (vbl)
 Podklady pro reálny experiment (externí sw)
 Vizualizace výsledků (vbl)
 Transformace dat (Jupyter notebook)
+
+Demo na telefonu
 
 ---
 
@@ -196,7 +197,7 @@ Snesitelný počet FPS, loading celé scény = minuty, threejs = moloch, uprava 
 
 ### Vlastní řešení
 
-Nedostatečný výkon, problémová integrace s VBL
+Nedostatečný výkon, problémová integrace s VBL  
 @size[0.6em](Až 30 mil částic na snímek při animaci o 400 snímcích)
 
 GPU instancing částic v prakticky čistém WebGL  
@@ -237,6 +238,6 @@ Malý tým, obří množství práce
 
 Hledáme nadšené grafiky všech kategorií, druhů a tvarů
 
-@fa[at fa-lg] janecka.pavel@gmail.com  
-@fa[at fa-lg] pavel.janecka@eli-beams.eu  
-@fa[github fa-lg] Sorceror
+@fa[at fa-lg] @size[0.6em](janecka.pavel@gmail.com)  
+@fa[at fa-lg] @size[0.6em](pavel.janecka@eli-beams.eu)  
+@fa[github fa-lg] @size[0.6em](Sorceror)
