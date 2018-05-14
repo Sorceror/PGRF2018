@@ -151,11 +151,11 @@ Objemová data - projekce a řezy
 
 Paraview nativní vtk.js framework
 
-@div[top-45]
+@div[top-40%]
 ![](assets/vtkjs-expected.png)
 @divend
 
-@div[bottom-45]
+@div[bottom-40%]
 ![](assets/vtkjs-reality.png)
 @divend
 
