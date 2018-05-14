@@ -136,6 +136,8 @@ Vizualizace ve WebGL na míru
 Note:
 Základní analýza dat, zjišťování smysluplných rozsahů, tvorba videí
 
+---?video=https://cdn.rawgit.com/Sorceror/PGRF2018/590f9c3e/assets/energy-charge-4k-v3.mp4
+
 ---
 
 ### Zdrojová data
