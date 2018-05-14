@@ -239,9 +239,9 @@ Malý tým, obří množství práce
 Hledáme nadšené grafiky všech kategorií, druhů a tvarů
 
 @div[left-50]
-@fa[at fa-sm] @size[0.6em](janecka.pavel@gmail.com) 
+@fa[at fa-sm] @size[0.8em](janecka.pavel@gmail.com) 
 @divend
 
 @div[right-50]
-@fa[github fa-sm] @size[0.6em](Sorceror)
+@fa[github fa-sm] @size[0.8em](Sorceror)
 @divend
