@@ -199,11 +199,15 @@ Snesitelný počet FPS, loading celé scény = minuty, threejs = moloch, uprava 
 Nedostatečný výkon, problémová integrace s VBL
 
 GPU instancing částic v prakticky čistém WebGL  
-@size[0.6em](Framework twgl)
+@size[0.6em](Framework twgl.js)
 
 Toolchain pro konverzi dat  
-@size[0.6em](Založený na node.js)
-@size[0.6em](*.h5, *.csv, *.vtk, ...)
+@size[0.6em](Založený na node.js)  
+@size[0.6em](\*.h5, *.csv, *.vtk, ...)
+
+---?image=assets/vblelibeamseu.png
+
+---
 
 TODO: maly tym
 TODO: nabidka prace
