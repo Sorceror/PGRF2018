@@ -162,7 +162,7 @@ Note:
 
 Unity
 
-TODO: obrázek
+![](assets/VBL_VR_E5.jpg)
 
 Note:
 Default assets jsou extrémně mizerné, i placené nemají požadovaný výkon
